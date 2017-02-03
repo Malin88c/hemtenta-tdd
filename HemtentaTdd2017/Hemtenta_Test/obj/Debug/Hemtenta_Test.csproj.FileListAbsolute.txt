@@ -1,0 +1,11 @@
+C:\Solutions\Hemtenta_TDD\HemtentaTdd2017\Hemtenta_Test\bin\Debug\Hemtenta_Test.dll
+C:\Solutions\Hemtenta_TDD\HemtentaTdd2017\Hemtenta_Test\bin\Debug\Hemtenta_Test.pdb
+C:\Solutions\Hemtenta_TDD\HemtentaTdd2017\Hemtenta_Test\bin\Debug\Hemtenta_Malin_Classon.exe
+C:\Solutions\Hemtenta_TDD\HemtentaTdd2017\Hemtenta_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Solutions\Hemtenta_TDD\HemtentaTdd2017\Hemtenta_Test\bin\Debug\nunit.framework.dll
+C:\Solutions\Hemtenta_TDD\HemtentaTdd2017\Hemtenta_Test\bin\Debug\Hemtenta_Malin_Classon.pdb
+C:\Solutions\Hemtenta_TDD\HemtentaTdd2017\Hemtenta_Test\bin\Debug\nunit.framework.xml
+C:\Solutions\Hemtenta_TDD\HemtentaTdd2017\Hemtenta_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Solutions\Hemtenta_TDD\HemtentaTdd2017\Hemtenta_Test\obj\Debug\Hemtenta_Test.csprojResolveAssemblyReference.cache
+C:\Solutions\Hemtenta_TDD\HemtentaTdd2017\Hemtenta_Test\obj\Debug\Hemtenta_Test.dll
+C:\Solutions\Hemtenta_TDD\HemtentaTdd2017\Hemtenta_Test\obj\Debug\Hemtenta_Test.pdb

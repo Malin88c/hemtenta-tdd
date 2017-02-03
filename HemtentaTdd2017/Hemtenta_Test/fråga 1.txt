@@ -1,0 +1,24 @@
+Tenta TDD - Malin Classon
+
+
+Red - Green - Refactor är ett tillvägagångssätt inom TDD som går ut på att man först skriver ett test 
+som failar, alltså ett rött test. Sedan skriver man kod i strävan om att göra testet grönt.
+När testet är grönt förbättra man sin kod så att man 
+skriver så "bra" kod som möjligt samtidigt som testet fortsätter
+vara grönt.
+
+I den här kursen har jag använt det så att jag förösker skriva så mycket tester
+jag kan komma på innan jag börjar med implementationen av koden. Jag tyckte det 
+kändes onaturlig till början, då jag hellre ville komma igång att skrriva kod
+innan jag skrev testerna för att förstå vad jag faktiskt ville testa.
+
+Men jag insåg senare att om jag bara utgick från vad metoderna skulle göra, 
+vad de hade för parameterar och möjliga värden så kunde jag lätt skriva
+testen innan jag skrev kod.
+
+Fördelen som jag känner är att det har gjort att jag tänker igenom alla 
+möjliga scenarion innan.
+
+Det är bra att ställa in så att testen körs när man bygger projektet, 
+då behöver man inte köra testen manuellt varje gång man gör en ändring i
+sin kod utan ser direkt om något orsakar problem i testerna.

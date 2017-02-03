@@ -1,0 +1,9 @@
+C:\Solutions\Hemtenta_TDD\HemtentaTdd2017\Hemtenta_Malin_Classon\bin\Debug\Hemtenta_Malin_Classon.exe.config
+C:\Solutions\Hemtenta_TDD\HemtentaTdd2017\Hemtenta_Malin_Classon\bin\Debug\Hemtenta_Malin_Classon.exe
+C:\Solutions\Hemtenta_TDD\HemtentaTdd2017\Hemtenta_Malin_Classon\bin\Debug\Hemtenta_Malin_Classon.pdb
+C:\Solutions\Hemtenta_TDD\HemtentaTdd2017\Hemtenta_Malin_Classon\obj\Debug\Hemtenta_Malin_Classon.csprojResolveAssemblyReference.cache
+C:\Solutions\Hemtenta_TDD\HemtentaTdd2017\Hemtenta_Malin_Classon\obj\Debug\Hemtenta_Malin_Classon.exe
+C:\Solutions\Hemtenta_TDD\HemtentaTdd2017\Hemtenta_Malin_Classon\obj\Debug\Hemtenta_Malin_Classon.pdb
+C:\Solutions\hemtenta-tdd\HemtentaTdd2017\Hemtenta_Malin_Classon\bin\Debug\Hemtenta_Malin_Classon.exe.config
+C:\Solutions\hemtenta-tdd\HemtentaTdd2017\Hemtenta_Malin_Classon\obj\Debug\Hemtenta_Malin_Classon.exe
+C:\Solutions\hemtenta-tdd\HemtentaTdd2017\Hemtenta_Malin_Classon\obj\Debug\Hemtenta_Malin_Classon.pdb
